@@ -1,7 +1,7 @@
 
 <?php include 'inc/top-nav.inc'; ?>
 
-    <img class = "img-circle" src="images/cassidy_photo.jpg">
+    <img src="images/cassidy_photo.jpg">
 
 
     <h1>Cassidy Clayton</h1>
