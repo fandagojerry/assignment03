@@ -2,9 +2,11 @@ body {
 	font-family: 'Shadows Into Light Two', cursive;
 	color: #00303F;
 	background-color: #CAE4DB;
+	color: #00303F;
 }
 h1 {
-
+ background-color: #00303F;
+ color: #DCAE1D;
 }
 
 .container {
