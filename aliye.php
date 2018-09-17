@@ -1,6 +1,6 @@
 <?php include 'inc/top-nav.inc'; ?>
 
-    <img class="image-circle" src="images/aliye_photo.jpg">
+    <img src="images/aliye_photo.jpg">
 
     <h1>aliye</h1>
 
