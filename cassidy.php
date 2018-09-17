@@ -28,4 +28,10 @@
 
   </body>
 
+  <footer>
+      <a href=http://csc174.org/assignment01/cclayton/lab-01/>
+      <a href=http://csc174.org/assignment01/cclayton/lab-01/early-life.html>
+      <a href=http://csc174.org/assignment01/cclayton/lab-01/work-history.html>
+      <a href=http://csc174.org/assignment01/cclayton/lab-01/goals.html>
+
   </html>
