@@ -1,13 +1,32 @@
+<<<<<<< HEAD:cassidy.php
+<?php include 'inc/top-nav.inc'; ?>
+=======
 <!doctype html>
   <html lang=en>
   <head>
       <meta charset='utf-8'>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" type="text/css" href="styles.css">
       <link rel="stylesheet" type="text/css" href="nav-menu.css">
       <title>Assignment 03</title>
   </head>
 
   <body>
+
+
+    <nav>
+      <ul>
+        <li> <a href="index.html"> Homepage </a></li>
+        <li>  <a href="lihui.html"> Homepage </a></li>
+        <li>  <a href="aliye.html"> Homepage </a></li>
+        <li>  <a href="cassidy.html"> Homepage </a></li>
+      </ul>
+    </nav>
+>>>>>>> 271cc0e2e02bdb907cad233f22fc42e294601c6c:cassidy.html
+
+    <img class = "img-circle" src="images/cassidy_photo.jpg">
+
+
     <h1>Cassidy Clayton</h1>
     <p>Hi there! My name is Cassidy Clayton, and I’m a senior majoring in Linguistics and minoring in Medieval and Early Modern Studies--the former of which might have some use in the future, the latter of which remains primarily an excuse to study archaic texts and feed my passion for folk and fairy tales, Robin Hood stories, and Arthurian legends.
     </p>
