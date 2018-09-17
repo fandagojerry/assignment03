@@ -19,3 +19,6 @@ h1 {
 	display: grid;
 	grid-template-columns: 200px 50px 1fr;
 }
+footer {
+	grid-column: 1-3;
+}
