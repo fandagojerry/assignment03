@@ -1,5 +1,7 @@
 <?php include 'inc/top-nav.inc'; ?>
 
+    <h1>About Edmonton</h1>
+
     <h1><a href="lihui.php"> Lihui Guo</a></h1>
     <img src="images/lihui_photo.png" >
 
