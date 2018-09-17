@@ -22,6 +22,10 @@
 
     <p> 	I currently work in Collections Development at the library, as well as freelancing as a proofreader, copywriter, and content manager. I do infinitely prefer my current positions to previous ones I have held, namely in movie theaters and as a hostess in restaurants catering to retirees. Oh, and also a brief stint as a nursery worker (trees, not babies) in the Florida heat. That adventure certainly gave me both an appreciation for folks who do make that their career and a firm opinion that I did not want to make it mine.
     </p>
+
+
+    <?php include 'inc/menu-highlighter.inc'; ?>
+
   </body>
 
   </html>

@@ -8,6 +8,9 @@
 
     <h1><a href="cassidy.php">Cassidy Clayton</a> </h1>
     <img class = "img-circle" src="images/cassidy_photo.jpg">
+
+    <?php include 'inc/menu-highlighter.inc'; ?>
+
   </body>
 
   </html>

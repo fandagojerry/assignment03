@@ -18,5 +18,7 @@
   <p>The summer after freshman year, I worked for a Public Relations firm. It involved making a lot of cold calls, which I hated, but really got me over my distaste of talking on the phone. I also prepared press kits and got to write media pitches, which was considerably easier for me to do. The next summer, I worked at a not-for-profit called DoSomething.org! They were in the business of creating social good by encouraging teenagers to take action on various issues ranging from environmental awareness to sexual health. I worked on the Marketing team, and that internship basically locked me into wanting to work in Marketing, as well as for an organization that dealt with something that I was really passionate about. It was really easy waking up at 7AM to go to work when I was happy to be there. The company culture was really fun, with themed Fridays, bake-offs, and pool floats everywhere. Now that I’m a senior, I’m starting the job hunt for post-graduation, so here’s hoping that I land a position with a company that cares about its employees!
   </p>
 
+  <?php include 'inc/menu-highlighter.inc'; ?>
+
 </body>
 </html>

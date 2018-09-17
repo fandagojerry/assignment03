@@ -15,5 +15,8 @@
 
     <p> I also love photography and the arts, and am a digital photographer, though I love working with film photography as well. My sophomore year, I took an Art History class about early photography, and we took frequent trips to the Eastman Museum as part of the course. For a final project in that class, I studied one of the nine remaining Daugerreotypes (the first form of permanent photography) of Fredrick Douglass, which was on loan at the Rare Books and Special Collections library at the time. I hope at some point in my career, I’ll be able to combine my passion for photography and the arts and my work in Digital Media.
     </p>
+
+    <?php include 'inc/menu-highlighter.inc'; ?>
+
   </body>
 </html>
