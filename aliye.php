@@ -19,4 +19,11 @@
     <?php include 'inc/menu-highlighter.inc'; ?>
 
   </body>
+
+  <footer>
+      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/index.html>
+      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/film.html>
+      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/music.html>
+      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/photography.html>
+  </footer>
 </html>
