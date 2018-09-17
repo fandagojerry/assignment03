@@ -12,5 +12,10 @@
     <?php include 'inc/menu-highlighter.inc'; ?>
 
   </body>
+  <footer>
+      <a href=http://csc174.org/assignment01/lguo/lab01/>
+      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/index.html>
+      <a href=http://csc174.org/assignment01/cclayton/lab-01/>
+  </footer>
 
   </html>
