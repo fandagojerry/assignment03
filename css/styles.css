@@ -12,10 +12,16 @@ h1 {
  font-family: 'Shadows Into Light', cursive;
 }
 
+img {
+	padding: 20px; 
+}
 .container {
 	margin: 0 auto;
 	width: 90%;
 	max-width: 960px;
 	display: grid;
 	grid-template-columns: 200px 50px 1fr;
+}
+footer {
+	grid-column: 1-3;
 }

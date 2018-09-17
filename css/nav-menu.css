@@ -8,11 +8,12 @@
 
 .nav-menu li {
 	border-bottom: 2px dotted #c9af98;
+	
 }
 
 .nav-menu
 .is-current {
-	background-color: #ed8a63;
+	background-color: #7A9D96;
 	color: #3a4660;
 	width: auto;
 }
