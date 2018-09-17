@@ -3,7 +3,7 @@
 
     <img class = "img-circle" src="images/cassidy_photo.jpg">
 
-
+    <div class="container">
     <h1>Cassidy Clayton</h1>
     <p>Hi there! My name is Cassidy Clayton, and I’m a senior majoring in Linguistics and minoring in Medieval and Early Modern Studies--the former of which might have some use in the future, the latter of which remains primarily an excuse to study archaic texts and feed my passion for folk and fairy tales, Robin Hood stories, and Arthurian legends.
     </p>
@@ -22,9 +22,10 @@
 
     <p> 	I currently work in Collections Development at the library, as well as freelancing as a proofreader, copywriter, and content manager. I do infinitely prefer my current positions to previous ones I have held, namely in movie theaters and as a hostess in restaurants catering to retirees. Oh, and also a brief stint as a nursery worker (trees, not babies) in the Florida heat. That adventure certainly gave me both an appreciation for folks who do make that their career and a firm opinion that I did not want to make it mine.
     </p>
-
+  </div>
 
     <?php include 'inc/menu-highlighter.inc'; ?>
+  
 
   </body>
 
