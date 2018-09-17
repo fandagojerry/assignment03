@@ -1,3 +1,6 @@
+<<<<<<< HEAD:cassidy.php
+<?php include 'inc/top-nav.inc'; ?>
+=======
 <!doctype html>
   <html lang=en>
   <head>
@@ -19,6 +22,7 @@
         <li>  <a href="cassidy.html"> Homepage </a></li>
       </ul>
     </nav>
+>>>>>>> 271cc0e2e02bdb907cad233f22fc42e294601c6c:cassidy.html
 
     <img class = "img-circle" src="images/cassidy_photo.jpg">
 
