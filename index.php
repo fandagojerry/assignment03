@@ -1,6 +1,12 @@
 <?php include 'inc/top-nav.inc'; ?>
 
+<<<<<<< HEAD
    <div class="container"> <h1><a href="lihui.php"> Lihui Guo</a></h1>
+=======
+    <h1>About Edmonton</h1>
+
+    <h1><a href="lihui.php"> Lihui Guo</a></h1>
+>>>>>>> a0e1d149e5af43e29a7e88f79edbe2928d4ab7b7
     <img src="images/lihui_photo.png" >
 
     <h1> <a href="aliye.php">Aliye Gallagher</a> </h1>
