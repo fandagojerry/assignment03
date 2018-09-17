@@ -1,9 +1,16 @@
 body {
 	font-family: 'Shadows Into Light Two', cursive;
-	color: #00303F
+	color: #00303F;
 	background-color: #CAE4DB;
 }
 h1 {
 
 }
 
+.container {
+		margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+	display: grid;
+	grid-template-columns: 200px 50px 1fr;
+}
