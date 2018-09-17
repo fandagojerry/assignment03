@@ -11,23 +11,9 @@
   <body>
     <nav>
       <ul>
-        <li> <a href="index.html"> Homepage </a></li>
-        <li>  <a href="lihui.html"> Homepage </a></li>
-        <li>  <a href="aliye.html"> Homepage </a></li>
-        <li>  <a href="cassidy.html"> Homepage </a></li>
+        <li> <a href="index.php"> Homepage </a></li>
+        <li>  <a href="lihui.php"> Homepage </a></li>
+        <li>  <a href="aliye.php"> Homepage </a></li>
+        <li>  <a href="cassidy.php"> Homepage </a></li>
       </ul>
-<<<<<<< HEAD:inc/top-nav.inc
     </nav>
-=======
-    </nav>
-
-    <img class="image-circle" src="images/aliye_photo.jpg">
-
-    <h1>aliye</h1>
-
-    <p> asdf
-    </p>
-  </body>
-
-  </html>
->>>>>>> 271cc0e2e02bdb907cad233f22fc42e294601c6c:aliye.html
