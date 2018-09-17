@@ -2,7 +2,7 @@
 
 
   <img src="images/lihui_photo.png" >
-  <h1>Lihui Guo</h1>
+  <h1> lihui</h1>
 
   <p> I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.
   </p>
@@ -17,6 +17,8 @@
 
   <p>The summer after freshman year, I worked for a Public Relations firm. It involved making a lot of cold calls, which I hated, but really got me over my distaste of talking on the phone. I also prepared press kits and got to write media pitches, which was considerably easier for me to do. The next summer, I worked at a not-for-profit called DoSomething.org! They were in the business of creating social good by encouraging teenagers to take action on various issues ranging from environmental awareness to sexual health. I worked on the Marketing team, and that internship basically locked me into wanting to work in Marketing, as well as for an organization that dealt with something that I was really passionate about. It was really easy waking up at 7AM to go to work when I was happy to be there. The company culture was really fun, with themed Fridays, bake-offs, and pool floats everywhere. Now that I’m a senior, I’m starting the job hunt for post-graduation, so here’s hoping that I land a position with a company that cares about its employees!
   </p>
+
+  <?php include 'inc/menu-highlighter.inc'; ?>
 
 </body>
 </html>
