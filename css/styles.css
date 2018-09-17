@@ -7,3 +7,10 @@ h1 {
 
 }
 
+.container {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+	display: grid;
+	grid-template-columns: 200px 50px 1fr;
+}
