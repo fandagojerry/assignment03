@@ -12,10 +12,10 @@
   <body>
     <nav>
       <ul>
-        <li> <a href="index.php">Homepage</a></li>
-        <li>  <a href="lihui.php">Lihui Guo</a></li>
-        <li>  <a href="aliye.php">Aliye Gallagher</a></li>
-        <li>  <a href="cassidy.php">Cassidy Clayton</a></li>
+        <li class="nav-menu"> <a href="index.php">Homepage</a></li>
+        <li class="nav-menu">  <a href="lihui.php">Lihui Guo</a></li>
+        <li class="nav-menu">  <a href="aliye.php">Aliye Gallagher</a></li>
+        <li class="nav-menu">  <a href="cassidy.php">Cassidy Clayton</a></li>
       </ul>
     </nav>
 
