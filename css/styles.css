@@ -1,5 +1,5 @@
 body p{
-	font-family: 'Shadows Into Light Two', cursive;
+	font-family: 'Shadows Into Light', cursive;
 	color: #00303F
 	background-color: #CAE4DB;
 	color: #00303F;
@@ -8,6 +8,7 @@ h1 {
  background-color: #00303F;
  color: #DCAE1D;
  padding: 20px;
+ font-family: 'Shadows Into Light', cursive;
 }
 
 .container {
