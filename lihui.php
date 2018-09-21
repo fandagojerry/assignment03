@@ -27,9 +27,9 @@
   <p>Content from:</p>
   <ul>
       <li><a href="http://csc174.org/assignment01/lguo/lab01/">http://csc174.org/assignment01/lguo/lab01/</a></li>
-      <li><a href="http://csc174.org/assignment01/lguo/lab01/early-edu.html"></a></li>
-      <li><a href="http://csc174.org/assignment01/lguo/lab01/college.html"></a></li>
-      <li><a href="http://csc174.org/assignment01/lguo/lab01/work-exp.html"></a></li>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/early-edu.html">http://csc174.org/assignment01/lguo/lab01/early-edu.html</a></li>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/college.html">http://csc174.org/assignment01/lguo/lab01/college.html</a></li>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/work-exp.html">http://csc174.org/assignment01/lguo/lab01/work-exp.html</a></li>
     </ul>
 </footer>
 
