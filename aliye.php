@@ -22,9 +22,12 @@
   </body>
 
   <footer>
-      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/index.html>
-      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/film.html>
-      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/music.html>
-      <a href=http://csc174.org/assignment01/agallagher/Assignment%201/photography.html>
+    <p>Content from:</p>
+    <ul>
+      <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/index.html">Aliye Lab 1 Index</a></li>
+      <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/film.html">Aliye Lab 1 Film</a></li>
+      <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/music.html">Aliye Lab 1 Music</a></li>
+      <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/photography.html">Aliye Lab 1 Photography</a></li>
+      </ul>
   </footer>
 </html>
