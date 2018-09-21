@@ -25,14 +25,17 @@
   </div>
 
     <?php include 'inc/menu-highlighter.inc'; ?>
-  
+
 
   </body>
 
   <footer>
-      <a href=http://csc174.org/assignment01/cclayton/lab-01/>
-      <a href=http://csc174.org/assignment01/cclayton/lab-01/early-life.html>
-      <a href=http://csc174.org/assignment01/cclayton/lab-01/work-history.html>
-      <a href=http://csc174.org/assignment01/cclayton/lab-01/goals.html>
+    <p>Content from:</p>
+    <ul>
+      <li><a href="http://csc174.org/assignment01/cclayton/lab-01">http://csc174.org/assignment01/cclayton/lab-01</a></li>
+      <li><a href="http://csc174.org/assignment01/cclayton/lab-01/early-life.html">http://csc174.org/assignment01/cclayton/lab-01/early-life.html</a></li>
+      <li><a href="http://csc174.org/assignment01/cclayton/lab-01/work-history.html">http://csc174.org/assignment01/cclayton/lab-01/work-history.html</a></li>
+      <li><a href="http://csc174.org/assignment01/cclayton/lab-01/goals.html">http://csc174.org/assignment01/cclayton/lab-01/goals.html</a></li>
+      </ul>
 </footer>
   </html>
