@@ -24,10 +24,13 @@
 </body>
 
 <footer>
-    <a href=http://csc174.org/assignment01/lguo/lab01/>
-<a href=http://csc174.org/assignment01/lguo/lab01/early-edu.html>
-<a href=http://csc174.org/assignment01/lguo/lab01/college.html>
-<a href=http://csc174.org/assignment01/lguo/lab01/work-exp.html>
+  <p>Content from:</p>
+  <ul>
+      <li><a href=http://csc174.org/assignment01/lguo/lab01/></a></li>
+      <li><a href=http://csc174.org/assignment01/lguo/lab01/early-edu.html></a></li>
+      <li><a href=http://csc174.org/assignment01/lguo/lab01/college.html></a></li>
+      <li><a href=http://csc174.org/assignment01/lguo/lab01/work-exp.html></a></li>
+    </ul>
 </footer>
 
 
