@@ -5,7 +5,7 @@
 
     <div class="container">
     <h1>Cassidy Clayton</h1>
-    <img class = "img-circle" src="images/cassidy_photo.jpg">
+    <img src="images/cassidy_photo.jpg" class="profile">
     <h2>Intro</h2>
     <p>Hi there! My name is Cassidy Clayton, and I’m a senior majoring in Linguistics and minoring in Medieval and Early Modern Studies--the former of which might have some use in the future, the latter of which remains primarily an excuse to study archaic texts and feed my passion for folk and fairy tales, Robin Hood stories, and Arthurian legends.
     </p>
@@ -15,8 +15,7 @@
     </p>
 
     <h2>College</h2>
-    <p> As for courses, I’ve mostly completed my major requirements, and I’ve finished what I need for my minor as well. By getting most of those classes out of the way during my first two and a half years of school, I was able to do something completely different when studying abroad in Dublin during the spring of 2018. While there, I attended the “Business, Globalisation, and Entrepreneurship” program with IES Abroad. And while the required classes were enlightening and informative, my real favorites were the photography and immersion writing classes (‘immersion writing’ is a genre of creative nonfiction that includes things like blog posts, travel narratives, reviews, and opinion pieces).
-      <p>
+    <p> As for courses, I’ve mostly completed my major requirements, and I’ve finished what I need for my minor as well. By getting most of those classes out of the way during my first two and a half years of school, I was able to do something completely different when studying abroad in Dublin during the spring of 2018. While there, I attended the “Business, Globalisation, and Entrepreneurship” program with IES Abroad. And while the required classes were enlightening and informative, my real favorites were the photography and immersion writing classes (‘immersion writing’ is a genre of creative nonfiction that includes things like blog posts, travel narratives, reviews, and opinion pieces). </p>
 
     <h2>Work</h2>
     <p>I currently work in Collections Development at the library, as well as freelancing as a proofreader, copywriter, and content manager. I do infinitely prefer my current positions to previous ones I have held, namely in movie theaters and as a hostess in restaurants catering to retirees. Oh, and also a brief stint as a nursery worker (trees, not babies) in the Florida heat. That adventure certainly gave me both an appreciation for folks who do make that their career and a firm opinion that I did not want to make it mine.

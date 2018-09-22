@@ -1,10 +1,10 @@
 <?php include 'inc/top-nav.inc'; ?>
 
 
-  <img src="images/lihui_photo.png" >
+
   <div class="container">
     <h1>Lihui Guo</h1>
-    <img src="images/lihui_photo.png" >
+    <img src="images/lihui_photo.png" class="profile" >
   <h2>Intro</h2>
   <p> I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.
   </p>
