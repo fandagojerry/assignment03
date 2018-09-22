@@ -1,9 +1,16 @@
-body p{
+body {
+	background-color: #7A9D96;
+}
+
+p{
 	font-family: 'Shadows Into Light', cursive;
-	color: #00303F
+	color: #00303F;
 	background-color: #CAE4DB;
 	color: #00303F;
 	letter-spacing: 2px;
+	margin: 0px;
+	padding: 20px;
+	border-radius: 10px;
 }
 h1 {
  background-color: #00303F;
@@ -21,6 +28,7 @@ h2 {
  font-family: 'Shadows Into Light', cursive;
  max-height: 40px;
  border-radius: 5px;
+ margin: 0px;
 }
 img {
 	padding: 20px; 
