@@ -26,17 +26,17 @@ footer {
 	grid-column: 1-3;
 }
 
-h1 a:link {
+ a {
 	text-decoration: none;
-	color: 
+	color: #DCAE1D; 
 }
 
-h1 a:visited {
+a:visited {
 	text-decoration: none;
 	color: #CAE4DB;
 }
 
-h1 a:hover {
+a:hover {
 	text-decoration: none;
-	color: ;
+	color: #00303F;
 }
