@@ -1,10 +1,10 @@
 <?php include 'inc/top-nav.inc'; ?>
 
-    <img src="images/aliye_photo.jpg">
+    
 
     <div class="container">
     <h1>Aliye Gallagher</h1>
-
+    <img src="images/aliye_photo.jpg">
     <h2>College</h2>
     <p>I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do. My sophomore year, I began the process of designing my major, by having a lot of meetings with the Multidisciplinary Studies office, talking to many professors that I had taken classes with that I liked, and attempting to create a solid way of describing the major that I wanted to create. After a semester of hard work, I had two advisors sign on with me and a four page proposal, answering: 1. What my future plans after graduating with said major would be, 2. Why I couldn't declare a major that is already established, and 3. A detailed explanation of each class I planned to take and how they fit in. A few months later, my proposal was approved.
     </p>

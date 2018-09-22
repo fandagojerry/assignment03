@@ -1,11 +1,11 @@
 
 <?php include 'inc/top-nav.inc'; ?>
 
-    <img class = "img-circle" src="images/cassidy_photo.jpg">
+
 
     <div class="container">
     <h1>Cassidy Clayton</h1>
-
+    <img class = "img-circle" src="images/cassidy_photo.jpg">
     <h2>Intro</h2>
     <p>Hi there! My name is Cassidy Clayton, and I’m a senior majoring in Linguistics and minoring in Medieval and Early Modern Studies--the former of which might have some use in the future, the latter of which remains primarily an excuse to study archaic texts and feed my passion for folk and fairy tales, Robin Hood stories, and Arthurian legends.
     </p>
