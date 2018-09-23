@@ -57,12 +57,21 @@ footer {
 	border-radius: 5px;
 	margin-left: 50px;
 	margin-right: 50px;
+	font-family: 'Shadows Into Light', cursive;
 }
 footer ul{
 	list-style-type: none;
-	
+	padding-bottom: 25px;
+	margin-top: 0px;
 }
 
+footer p{
+	font-weight: bold;
+	font-size: 14pt;
+	text-align: center;
+	background-color: #00303F;
+	color: #c9af98;
+}
  a {
 	text-decoration: none;
 	color: #CAE4DB; 
