@@ -65,11 +65,13 @@ footer ul{
 	list-style-type: none;
 	padding-bottom: 25px;
 	margin-top: 0px;
+	font-weight: normal;
+	letter-spacing: 3px;
 }
 
 footer p{
 	font-weight: bold;
-	font-size: 14pt;
+	font-size: 16pt;
 	letter-spacing: 3px;
 	text-align: center;
 	background-color: #00303F;
