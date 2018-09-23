@@ -27,7 +27,6 @@
 
     <h2>Goals</h2>
     <p> My goal beyond University is to move to Edmonton, Canada, to work there and eventually set up my own tea shop. I’ve quite a fondness for tea, you see, to the point of obsessive collecting, and at some point I’d like to be able to share that love of tea with the population at large.
-    <p>
 
   </div>
 
