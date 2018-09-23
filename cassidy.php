@@ -1,4 +1,5 @@
-<?php include 'inc/top-nav.inc'; ?>
+<?php include 'inc/html-top.inc'; ?>
+<?php include 'inc/nav.inc'; ?>
 
   <div class="container">
 
