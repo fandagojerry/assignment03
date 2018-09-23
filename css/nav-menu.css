@@ -16,7 +16,6 @@
 	padding-bottom: 5px;
 	padding-top: 5px;
 	border-radius: 5px;
-	color: #c9af98;
 
 }
 
@@ -38,7 +37,12 @@
 }
 
 .nav-menu a {
-	color: #DCAE1D;
+	color: #c9af98;
 	text-decoration: none;
 	display: block;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bold;
+	font-size: 16pt;
+	letter-spacing: 3px;
+
 }

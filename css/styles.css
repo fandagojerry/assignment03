@@ -68,6 +68,7 @@ footer ul{
 footer p{
 	font-weight: bold;
 	font-size: 14pt;
+	letter-spacing: 3px;
 	text-align: center;
 	background-color: #00303F;
 	color: #c9af98;
@@ -79,7 +80,7 @@ footer p{
 
 a:visited {
 	text-decoration: none;
-	color: #CAE4DB;
+	color: #c9af98;
 }
 
 a:hover {
