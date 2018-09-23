@@ -19,8 +19,7 @@
 
 }
 
-.nav-menu
-.is-current {
+.nav-menu .is-current {
 	background-color: #7A9D96;
 	color: #3a4660;
 	width: auto;

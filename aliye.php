@@ -1,10 +1,10 @@
 <?php include 'inc/top-nav.inc'; ?>
 
-    
+  <div class="container">
 
-    <div class="container">
     <h1>Aliye Gallagher</h1>
     <img src="images/aliye_photo.jpg" class="profile">
+
     <h2>College</h2>
     <p>I created my own major here at the U of R (a DIY major!), through the interdepartmental major track. I realized in my first year that none of the majors that were offered were exactly right for me, and started to look into the interdepartmental major option. Basically, you're petitioning the school that none of the majors would fulfil what you want to do. My sophomore year, I began the process of designing my major, by having a lot of meetings with the Multidisciplinary Studies office, talking to many professors that I had taken classes with that I liked, and attempting to create a solid way of describing the major that I wanted to create. After a semester of hard work, I had two advisors sign on with me and a four page proposal, answering: 1. What my future plans after graduating with said major would be, 2. Why I couldn't declare a major that is already established, and 3. A detailed explanation of each class I planned to take and how they fit in. A few months later, my proposal was approved.
     </p>
@@ -21,9 +21,11 @@
     <p> I also love photography and the arts, and am a digital photographer, though I love working with film photography as well. My sophomore year, I took an Art History class about early photography, and we took frequent trips to the Eastman Museum as part of the course. For a final project in that class, I studied one of the nine remaining Daugerreotypes (the first form of permanent photography) of Fredrick Douglass, which was on loan at the Rare Books and Special Collections library at the time. I hope at some point in my career, I’ll be able to combine my passion for photography and the arts and my work in Digital Media.
     </p>
 
-    <?php include 'inc/menu-highlighter.inc'; ?>
-</div>
-  </body>
+  </div>
+
+  <?php include 'inc/menu-highlighter.inc'; ?>
+
+</body>
 
   <footer>
     <p>Content from:</p>
@@ -34,4 +36,5 @@
       <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/photography.html">Aliye Lab 1 Photography</a></li>
       </ul>
   </footer>
+
 </html>

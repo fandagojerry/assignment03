@@ -3,7 +3,7 @@ body {
 	background-image: url("../images/hex_cube.png")
 }
 
-p{
+p {
 	font-family: 'Shadows Into Light', cursive;
 	color: #00303F;
 	background-color: #CAE4DB;
@@ -13,6 +13,7 @@ p{
 	padding: 20px;
 	border-radius: 10px;
 }
+
 h1 {
  background-color: #00303F;
  color: #c9af98;
@@ -35,6 +36,7 @@ h2 {
  margin: 0px;
  text-align: center;
 }
+
 img.profile {
 	padding: 20px; 
 	display: block;
@@ -44,6 +46,7 @@ img.profile {
  	border: solid 3px #00303F;
  	background-color: #CAE4DB;
 }
+
 .container {
 	margin: 0 auto;
 	width: 90%;
@@ -61,6 +64,7 @@ footer {
 	margin-right: 50px;
 	font-family: 'Shadows Into Light', cursive;
 }
+
 footer ul{
 	list-style-type: none;
 	padding-bottom: 25px;
@@ -78,7 +82,8 @@ footer p{
 	background-color: #00303F;
 	color: #c9af98;
 }
- a {
+
+a {
 	text-decoration: none;
 	color: #CAE4DB; 
 }

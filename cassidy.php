@@ -1,11 +1,10 @@
-
 <?php include 'inc/top-nav.inc'; ?>
 
+  <div class="container">
 
-
-    <div class="container">
     <h1>Cassidy Clayton</h1>
     <img src="images/cassidy_photo.jpg" class="profile">
+
     <h2>Intro</h2>
     <p>Hi there! My name is Cassidy Clayton, and I’m a senior majoring in Linguistics and minoring in Medieval and Early Modern Studies--the former of which might have some use in the future, the latter of which remains primarily an excuse to study archaic texts and feed my passion for folk and fairy tales, Robin Hood stories, and Arthurian legends.
     </p>
@@ -30,10 +29,9 @@
 
   </div>
 
-    <?php include 'inc/menu-highlighter.inc'; ?>
+  <?php include 'inc/menu-highlighter.inc'; ?>
 
-
-  </body>
+</body>
 
   <footer>
     <p>Content from:</p>
@@ -44,4 +42,5 @@
       <li><a href="http://csc174.org/assignment01/cclayton/lab-01/work-history.html">Cassidy Lab 1 Work</a></li>
       </ul>
 </footer>
-  </html>
+
+</html>
