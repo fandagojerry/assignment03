@@ -34,7 +34,7 @@
       <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/film.html">Aliye Lab 1 Film</a></li>
       <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/music.html">Aliye Lab 1 Music</a></li>
       <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/photography.html">Aliye Lab 1 Photography</a></li>
-      </ul>
+    </ul>
   </footer>
 
 </html>
