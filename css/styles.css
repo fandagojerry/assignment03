@@ -16,6 +16,7 @@ p{
 h1 {
  background-color: #00303F;
  color: #c9af98;
+ letter-spacing: 3px;
  padding: 20px;
  font-family: 'Shadows Into Light', cursive;
  max-height: 60px;
@@ -26,6 +27,7 @@ h1 {
 h2 {
  background-color: #00303F;
  color: #c9af98;
+ letter-spacing: 3px;
  padding: 10px;
  font-family: 'Shadows Into Light', cursive;
  max-height: 40px;
