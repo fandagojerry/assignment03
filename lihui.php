@@ -3,7 +3,7 @@
   <div class="container">
 
     <h1>Lihui Guo</h1>
-    <img src="images/lihui_photo.png" class="profile">
+    <img src="images/lihui_photo.png" alt="lihui" class="profile">
 
     <h2>Intro</h2>
     <p> I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.
@@ -23,18 +23,20 @@
 
   </div>
 
+  <footer>
+    <p>Content from:</p>
+    <ul>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/index.html">Lihui Lab 1 Index</a></li>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/early-edu.html">Lihui Lab 1 Early Education</a></li>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/college.html">Lihui Lab 1 College</a></li>
+      <li><a href="http://csc174.org/assignment01/lguo/lab01/work-exp.html">Lihui Lab 1 Work</a></li>
+    </ul>
+  </footer>
+
   <?php include 'inc/menu-highlighter.inc'; ?>
 
 </body>
 
-<footer>
-  <p>Content from:</p>
-  <ul>
-    <li><a href="http://csc174.org/assignment01/lguo/lab01/index.html">Lihui Lab 1 Index</a></li>
-    <li><a href="http://csc174.org/assignment01/lguo/lab01/early-edu.html">Lihui Lab 1 Early Education</a></li>
-    <li><a href="http://csc174.org/assignment01/lguo/lab01/college.html">Lihui Lab 1 College</a></li>
-    <li><a href="http://csc174.org/assignment01/lguo/lab01/work-exp.html">Lihui Lab 1 Work</a></li>
-  </ul>
-</footer>
+
 
 </html>
