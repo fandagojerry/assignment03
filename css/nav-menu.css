@@ -26,9 +26,10 @@
 	width: auto;
 }
 
-.nav-menu :hover {
+.nav-menu li:hover {
 	color: #3a4660;
 	border-top: 2px dotted #CAE4DB;
+	
 }
 
 .nav-menu a {
