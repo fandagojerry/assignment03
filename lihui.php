@@ -6,12 +6,9 @@
     <h1>Lihui Guo</h1>
     <img src="images/lihui_photo.png" alt="lihui" class="profile">
 
-    <h2>Intro</h2>
+    <h2>Early Life</h2>
     <p> I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.
-    </p>
-
-    <h2>Early Education</h2>
-    <p>When I started elementary school, I didn’t speak much English, so I had to take ESL classes. I picked it up quickly, and started to love reading, which probably helped. I ended up testing into a magnet middle school for music, so I spent three years pretending I knew how to play the cello. The middle school had an advanced curriculum, which prepared me well for the SHSAT, a standardized exam New Yorkers take to gain admission into selective high schools. I scored pretty high, and went to the “#1 public high school in NYC”. It was super competitive, but they offered a wide variety of courses, like Organic Chemistry.
+    When I started elementary school, I didn’t speak much English, so I had to take ESL classes. I picked it up quickly, and started to love reading, which probably helped. I ended up testing into a magnet middle school for music, so I spent three years pretending I knew how to play the cello. The middle school had an advanced curriculum, which prepared me well for the SHSAT, a standardized exam New Yorkers take to gain admission into selective high schools. I scored pretty high, and went to the “#1 public high school in NYC”. It was super competitive, but they offered a wide variety of courses, like Organic Chemistry.
     </p>
 
     <h2>College</h2>
