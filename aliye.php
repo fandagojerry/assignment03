@@ -18,9 +18,6 @@
     Last fall, I studied abroad in London, and I had an internship at a firm that interviews film stars and filmmakers for promo for films, and edits them into YouTube videos. I had the chance to interview stars, directors, and producers for a film festival in junket setting (sitting down in a room with the movie poster behind you), as well as twice on the red carpet. I learned Premiere Pro like the back of my hand, and went from being the most awkward as an interviewer to only slightly awkward.
     </p>
 
-    <!-- <h2>Hobbies</h2>
-    <p> I also love photography and the arts, and am a digital photographer, though I love working with film photography as well. My sophomore year, I took an Art History class about early photography, and we took frequent trips to the Eastman Museum as part of the course. For a final project in that class, I studied one of the nine remaining Daugerreotypes (the first form of permanent photography) of Fredrick Douglass, which was on loan at the Rare Books and Special Collections library at the time. I hope at some point in my career, I’ll be able to combine my passion for photography and the arts and my work in Digital Media.
-    </p> -->
 
   </div>
 
