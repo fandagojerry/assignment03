@@ -1,20 +1,19 @@
-Edmonton
+# Edmonton - Lab 05
 
-People 
+## People 
 **Kelly Thornton** IA
 **Renjie Xiao** Designer
 **Xinyi Chen** Coder
 
 
-#Three Students of University of Rochester
+## Onotology
 
-1. Aliye 
-2. Cassidy
-3. Lihui
+A html website about three University of Rochester students
 
-## Early life  
-## college 
-## work
+## Taxology
 
+Students are placed in alphabetical order in heirarchy. 
 
-In each early life there is a word flow of how they got to college, then in their college experience they were able to find employment. Choosing that flow on each page will cohesively make sense to the reader. 
+## Choregraphy
+
+Navigation will be aplhabetical order as well as the images on the index screen. Then will have the same image on the individual page with paragraphs underneath. At the bottom will be the source link of where we got the content from.
