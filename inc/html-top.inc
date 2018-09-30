@@ -6,7 +6,7 @@
       <link rel="stylesheet" type="text/css" href="css/styles.css">
       <link rel="stylesheet" type="text/css" href="css/nav-menu.css">
       <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
-      <title>Assignment 03</title>
+      <title>Assignment 05</title>
   </head>
 
   <body>
