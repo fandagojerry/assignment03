@@ -1,9 +1,9 @@
 <?php include 'inc/html-top.inc'; ?>
 <?php include 'inc/nav.inc'; ?>
 
-  <div class="container">
 
-    <h1>Aliye Gallagher</h1>
+
+    <h1 class="title">Aliye Gallagher</h1>
     <img src="images/aliye_photo.jpg" alt="aliye" class="profile">
 
     <h2>Early Life</h2>
@@ -19,7 +19,6 @@
     </p>
 
 
-  </div>
 
   <footer>
     <p>Content from:</p>
