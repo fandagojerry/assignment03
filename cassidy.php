@@ -26,7 +26,7 @@
 
 
   <footer>
-    <p>Content from:</p>
+    <h2>Sources</h2>
     <ul>
       <li><a href="http://csc174.org/assignment01/cclayton/lab-01/index.html">Cassidy Lab 1 Index</a></li>
       <li><a href="http://csc174.org/assignment01/cclayton/lab-01/early-life.html">Cassidy Lab 1 Early Life</a></li>

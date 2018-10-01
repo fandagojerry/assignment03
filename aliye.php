@@ -21,7 +21,7 @@
 
 
   <footer>
-    <p>Content from:</p>
+   <h2>Sources</h2>
     <ul>
       <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/index.html">Aliye Lab 1 Index</a></li>
       <li><a href="http://csc174.org/assignment01/agallagher/Assignment%201/film.html">Aliye Lab 1 Film</a></li>

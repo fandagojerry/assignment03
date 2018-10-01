@@ -21,7 +21,7 @@
 
   
   <footer>
-    <p>Content from:</p>
+    <h2>Sources</h2>
     <ul>
       <li><a href="http://csc174.org/assignment01/lguo/lab01/index.html">Lihui Lab 1 Index</a></li>
       <li><a href="http://csc174.org/assignment01/lguo/lab01/early-edu.html">Lihui Lab 1 Early Education</a></li>
