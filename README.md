@@ -10,7 +10,7 @@
 
 A html website about three University of Rochester - U of R - students
 
-## Taxology
+## Taxonomy
 
 There are no particular order to the students presented, just grouped together because they are students of U of R.
 
