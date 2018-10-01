@@ -21,7 +21,7 @@
     <p>I currently work in Collections Development at the library, as well as freelancing as a proofreader, copywriter, and content manager. I do infinitely prefer my current positions to previous ones I have held, namely in movie theaters and as a hostess in restaurants catering to retirees. Oh, and also a brief stint as a nursery worker (trees, not babies) in the Florida heat. That adventure certainly gave me both an appreciation for folks who do make that their career and a firm opinion that I did not want to make it mine.
     </p>
 
-   <!-- <h2>Hobbies</h2>
+   <h2>Hobbies</h2>
     <p>When I’m not working, dancing, or in class, you can find me climbing (rocks, usually, but sometimes trees), binge-watching something on Youtube or Netflix (Clone Wars or Critical Role), or curled up with a book (in all honestly, probably a re-read of the Throne of Glass series).
     </p>
 
