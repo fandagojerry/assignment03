@@ -1,9 +1,8 @@
 <?php include 'inc/html-top.inc'; ?>
 <?php include 'inc/nav.inc'; ?>
 
-  <div class="container">
 
-    <h1>Cassidy Clayton</h1>
+    <h1 class="title">Cassidy Clayton</h1>
     <img src="images/cassidy_photo.jpg" alt="cassidy" class="profile">
 
     <h2>Intro</h2>
@@ -28,7 +27,7 @@
     <h2>Goals</h2>
     <p> My goal beyond University is to move to Edmonton, Canada, to work there and eventually set up my own tea shop. I’ve quite a fondness for tea, you see, to the point of obsessive collecting, and at some point I’d like to be able to share that love of tea with the population at large.</p>-->
 
-  </div>
+
 
   <footer>
     <p>Content from:</p>
